@@ -43,7 +43,7 @@
     "gulp-flatten": "^0.4.0",
     "gulp-inject": "^3.0.0",
     "gulp-noop": "^1.0.0",
-    "gulp-order": "^1.1.1",
+    "gulp-order": "^1.2.0",
     "gulp-uglify": "^2.0.1",
     "main-bower-files": "^2.13.1",
     "merge-stream": "^1.0.0",
