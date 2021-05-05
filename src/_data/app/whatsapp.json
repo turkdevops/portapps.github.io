@@ -24,6 +24,9 @@
     }
   ],
   "groups":[
+    "2.2114",
+    "2.2104",
+    "2.2100",
     "2.2049",
     "2.2039",
     "2.2035",
@@ -37,6 +40,33 @@
     "0.3"
   ],
   "releases": [
+    {
+      "version": "2.2114.9",
+      "release": "29",
+      "date": "2021/04/27",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2104.10",
+      "release": "28",
+      "date": "2021/02/25",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2100.7",
+      "release": "27",
+      "date": "2021/01/28",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2.2049.8",
       "release": "26",

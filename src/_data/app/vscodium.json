@@ -24,6 +24,8 @@
     }
   ],
   "groups": [
+    "1.55",
+    "1.53",
     "1.52",
     "1.51",
     "1.49",
@@ -45,6 +47,24 @@
     "1.33"
   ],
   "releases": [
+    {
+      "version": "1.55.2",
+      "release": "52",
+      "date": "2021/04/15",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.53.2",
+      "release": "51",
+      "date": "2021/02/15",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.52.0",
       "release": "50",
