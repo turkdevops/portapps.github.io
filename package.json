@@ -45,7 +45,7 @@
     "gulp-noop": "^1.0.1",
     "gulp-order": "^1.1.1",
     "gulp-uglify": "^2.0.1",
-    "main-bower-files": "^2.13.1",
+    "main-bower-files": "^2.13.3",
     "merge-stream": "^1.0.0",
     "minimist": "^1.2.5",
     "read-config": "^2.0.0",
